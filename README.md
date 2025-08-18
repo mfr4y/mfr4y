@@ -8,19 +8,14 @@
     </a>
 </p>
 
-- 🔔 Je possède un bot discord certifié : **MyProtect**
-- 🔭 Je n'ai pas de projet en cours **(disponible pour vous 😉)**
+- 🔔 Travaille acutellement sur **mLynk**, un SaaS destiné pour les développeurs
 - 🌟 Je suis développeur : **Web natif & React (NextJS)**
 - 🌱 J'apprends le **sysadmin**
-- 💬 Vous pouvez me demander **de développer des bots Discord, des API, de la configuration de machines quelconques ou encore le développement d'un site internet**
 
 <h3 align="left">Me contacter</h3>
 <p align="left">
     <a href="https://instagram.com/mfr4y_" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mfr4y_" height="30" width="40" />
-    </a>
-    <a href="https://discord.com/users/736587848601305118" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="infuzzz" height="30" width="40" />
     </a>
 </p>
 
