@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/mfr4y/mfr4y/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/mfray/mfr4y/output/snake-game.svg" alt="snake animation" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Maël</h1>
