@@ -38,7 +38,19 @@
 ### 🧰 Stack & outils
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,docker,figma,git,linux,mysql,mongodb,nginx,php" />
+  <img src="https://skillicons.dev/icons?i=ts,py,html,js,react,nextjs,nodejs,express,fastapi,cloudflare,vercel,nginx,redis,docker,ansible" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma,supabase,sqlite,git,githubactions,grafana,prometheus,raspberrypi,figma,npm,linux,php,threejs" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
+  <img src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </p>
 
 ---
