@@ -1,3 +1,8 @@
+<!-- BANNIÈRE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:090979&height=200&section=header&text=Maël%20-%20mfr4y&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Maël</h1>
 <h3 align="center">🇫🇷 Développeur Web depuis 2020</h3>
 
@@ -53,11 +58,19 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mfr4y&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mfr4y&layout=compact&theme=tokyonight&hide_border=true&hide_border=true&cache_seconds=1800" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mfr4y&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mfr4y&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📈 Dashboard avancé (Metrics)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mfr4y/mfr4y/main/github-metrics.svg" />
 </p>
 
 ---
