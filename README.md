@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mfray/mfr4y/output/snake-game.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mfr4y/mfr4y/raw/output/snake-game-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/mfr4y/mfr4y/raw/output/snake-game.svg">
+    <img src="https://github.com/mfr4y/mfr4y/raw/output/snake-game.svg" alt="snake animation">
+  </picture>
 </p>
 
 <h1 align="center">Hi 👋, I'm Maël</h1>
