@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:090979&height=200&section=header&text=Maël%20-%20mfr4y&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/mfr4y/mfr4y/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Maël</h1>
 <h3 align="center">🇫🇷 Développeur Web depuis 2020</h3>
 
@@ -14,6 +18,7 @@
   <img src="https://github-trophies.vercel.app/?username=mfr4y&theme=darkhub&no-frame=true&margin-w=10&no-bg=true" />
 </p>
 
+
 ---
 
 ### 🚀 À propos de moi
@@ -22,6 +27,21 @@
 - 🌟 Stack principale : **Next.js / React / Node.js**
 - 🧠 J'apprends : **Sysadmin & DevOps**
 - ⚡ Objectif : créer des produits SaaS solides et scalables
+
+<p align="left">
+  <a href="https://discord.com" target="_blank">
+    <img src="https://lanyard.websiddu.dev/api/badge/REPLACE_WITH_YOUR_DISCORD_ID?theme=dark&bg=0e75b6" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Projets en cours
+
+#### 📂 [DevUnity](https://github.com/mfr4y/devunity)
+> La plateforme SaaS pour accélérer le workflow des développeurs.
+- **Tech Stack** : Next.js, TypeScript, Prisma, PostgreSQL.
+- **Challenge** : Implémentation d'une CI/CD robuste et gestion multi-tenant avec IaS (playbook ansible, rke2, rancher)
 
 ---
 
@@ -70,6 +90,10 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mfr4y&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mfr4y&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=mfr4y&theme=tokyonight&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
