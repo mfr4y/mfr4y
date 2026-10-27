@@ -27,10 +27,10 @@
 
 ### 🚀 À propos de moi
 
-- 🔔 Actuellement sur **DevUnity** (SaaS pour développeurs)
+- 🔔 Actuellement sur **Ingency** (Agence de développement)
 - 🌟 Stack principale : **Next.js / React / Node.js**
 - 🧠 J'apprends : **Sysadmin & DevOps**
-- ⚡ Objectif : créer des produits SaaS solides et scalables
+- ⚡ Objectif : créer des produits mordenes, solides et scalables
 
 <p align="left">
   <a href="https://discord.com" target="_blank">
@@ -42,10 +42,10 @@
 
 ### 🛠️ Projets en cours
 
-#### 📂 [DevUnity](https://github.com/mfr4y/devunity)
-> La plateforme SaaS pour accélérer le workflow des développeurs.
+#### 📂 [Ingency](https://ingency.fr)
+> Ingency est une agence de développement web visant à grandir avec les standards actuels
 - **Tech Stack** : Next.js, TypeScript, Prisma, PostgreSQL.
-- **Challenge** : Implémentation d'une CI/CD robuste et gestion multi-tenant avec IaS (playbook ansible, rke2, rancher)
+- **Challenge** : Implémentation d'une CI/CD robuste et gestion multi-tenant avec IaS pour l'hébergement rattaché à Ingency (playbook ansible, rke2, rancher)
 
 ---
 
