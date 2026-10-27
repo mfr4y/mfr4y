@@ -106,7 +106,7 @@
 
 ---
 
-### 📈 Dashboard avancé (Metrics)
+### 📈 Quelques détails en + ...
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mfr4y/mfr4y/master/github-metrics.svg" />
