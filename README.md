@@ -11,7 +11,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Maël</h1>
-<h3 align="center">🇫🇷 Développeur Web depuis 2020</h3>
+<h3 align="center">Développeur depuis 2020</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mfr4y&label=Profile%20views&color=0e75b6&style=flat" />
@@ -25,45 +25,35 @@
 
 ---
 
-### 🚀 À propos de moi
+### À propos de moi
 
-- 🔔 Je travaille actuellement chez **Ingency** (Agence de développement)
-- 🌟 Ma stack principale : **React / Next.js / shadcn/ui / PostgreSQL**
-- 🧠 J'apprends actuellement : **Sysadmin & DevOps**
-- ⚡ Je suis en formation : **emlyon business school** et **Cisco Networking Academy**
+- Je travaille actuellement chez **Ingency** (Agence de développement)
+- Ma stack principale : **React / Next.js / shadcn/ui / PostgreSQL**
+- J'apprends actuellement : **Sysadmin & DevOps**
+- Je suis en formation : **emlyon business school** et **Cisco Networking Academy**
 <p align="left">
   <a href="https://discord.com" target="_blank">
-    <img src="https://lanyard.websiddu.dev/api/badge/REPLACE_WITH_YOUR_DISCORD_ID?theme=dark&bg=0e75b6" />
+    <img src="https://lanyard.websiddu.dev/api/badge/736587848601305118?theme=dark&bg=0e75b6" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Projets en cours
+### Projets en cours
 
-#### 📂 [Ingency](https://ingency.fr)
+#### [Ingency](https://ingency.fr)
 > Ingency est une agence de développement web visant à grandir avec les standards actuels
 - **Tech Stack** : Next.js, TypeScript, Drizzle, PostgreSQL, Cloudflare, Proxmox, Docker Swarm, Mikrotik, Prometheus, Grafana, ghcr, OPNSense & pfSense
 - **Challenge** : Implémentation d'une infrastructure adaptée et gestion multi-tenant avec IaS pour l'hébergement rattaché à Ingency (playbook ansible, rke2, rancher, monitoring, ...)
 
-#### 📂 [Ludapp](https://ludapp.ingency.fr)
+#### [Ludapp](https://ludapp.ingency.fr)
 > Ludapp est une application windows permettant aux ludothèques de facilement se numériser avec la gestion d'adhérents, d'événements, de jeux de sociétés ou encore des collectivités, construit avec un ludothécaire
 - **Tech Stack** : Electron, Next.js, TypeScript, Drizzle, PostgreSQL, Cloudflare, Docker Swarm
 - **Challenge** : Implémenter une première application windows avec Electron et une gestion via déploiement automatique d'APIs sur une infrastructure.
 
 ---
 
-### 📫 Me contacter
-
-<p align="left">
-  <a href="https://instagram.com/mfr4y_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
-  </a>
-</p>
-
----
-
-### 🧰 Stack & outils
+### Stack & outils
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,py,html,js,react,nextjs,nodejs,express,fastapi,cloudflare,vercel,nginx,redis,docker,ansible" />
@@ -83,39 +73,33 @@
 
 ---
 
-### ☕ Me soutenir
-
-<p align="left">
-  <a href="https://donate.stripe.com/6oE9Ci2CN2c9cPm002" target="_blank">
-    <img src="https://img.shields.io/badge/💜%20Support%20me-Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 📊 Stats GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mfr4y&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mfr4y&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=mfr4y&theme=tokyonight&layout=compact&hide_border=true" />
-</p>
-
+### Stats GitHub
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mfr4y&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-### 📈 Quelques détails en + ...
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mfr4y/mfr4y/master/github-metrics.svg" />
 </p>
 
 ---
+
+### Me contacter
+
+<p align="left">
+  <a href="https://instagram.com/mfr4y_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+</p>
+
+---
+
+### Me soutenir
+
+<p align="left">
+  <a href="https://donate.stripe.com/6oE9Ci2CN2c9cPm002" target="_blank">
+    <img src="https://img.shields.io/badge/💜%20Support%20me-Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  </a>
+</p>
 
 ![visitors](https://komarev.com/ghpvc/?username=mfr4y)
