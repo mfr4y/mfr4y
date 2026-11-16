@@ -27,11 +27,10 @@
 
 ### 🚀 À propos de moi
 
-- 🔔 Actuellement sur **Ingency** (Agence de développement)
-- 🌟 Stack principale : **Next.js / React / Node.js**
-- 🧠 J'apprends : **Sysadmin & DevOps**
-- ⚡ Objectif : créer des produits mordenes, solides et scalables
-
+- 🔔 Je travaille actuellement chez **Ingency** (Agence de développement)
+- 🌟 Ma stack principale : **React / Next.js / shadcn/ui / PostgreSQL**
+- 🧠 J'apprends actuellement : **Sysadmin & DevOps**
+- ⚡ Je suis en formation : **emlyon business school** et **Cisco Networking Academy**
 <p align="left">
   <a href="https://discord.com" target="_blank">
     <img src="https://lanyard.websiddu.dev/api/badge/REPLACE_WITH_YOUR_DISCORD_ID?theme=dark&bg=0e75b6" />
@@ -44,8 +43,13 @@
 
 #### 📂 [Ingency](https://ingency.fr)
 > Ingency est une agence de développement web visant à grandir avec les standards actuels
-- **Tech Stack** : Next.js, TypeScript, Prisma, PostgreSQL.
-- **Challenge** : Implémentation d'une CI/CD robuste et gestion multi-tenant avec IaS pour l'hébergement rattaché à Ingency (playbook ansible, rke2, rancher)
+- **Tech Stack** : Next.js, TypeScript, Drizzle, PostgreSQL, Cloudflare, Proxmox, Docker Swarm, Mikrotik, Prometheus, Grafana, ghcr, OPNSense & pfSense
+- **Challenge** : Implémentation d'une infrastructure adaptée et gestion multi-tenant avec IaS pour l'hébergement rattaché à Ingency (playbook ansible, rke2, rancher, monitoring, ...)
+
+#### 📂 [Ludapp](https://ludapp.ingency.fr)
+> Ludapp est une application windows permettant aux ludothèques de facilement se numériser avec la gestion d'adhérents, d'événements, de jeux de sociétés ou encore des collectivités, construit avec un ludothécaire
+- **Tech Stack** : Electron, Next.js, TypeScript, Drizzle, PostgreSQL, Cloudflare, Docker Swarm
+- **Challenge** : Implémenter une première application windows avec Electron et une gestion via déploiement automatique d'APIs sur une infrastructure.
 
 ---
 
